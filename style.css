@@ -17,13 +17,13 @@
 .left-section {
     grid-column: span 2;
     height: 100%;
-    background-color: #999999;
+    background-color: #00204A;
 }
 
 .right-section {
     grid-column: span 5;
     height: 100%;
-    background-color: #424a50;
+    background-color: #4B6982;
     border-radius: 0px 60px 0px 0px;
 }
 
@@ -49,7 +49,7 @@
 }
 
 .profession {
-    color: #eeeeee;
+    color: #FDB44B;
     font-size: 20px;
     text-transform: uppercase;
     text-align: center;
@@ -57,7 +57,7 @@
 
 /* .contact-info { border-bottom: 2px solid #1B2631; } */
 .left-title {
-    color: #eeeeee;
+    color: #FDB44B;
     font-size: 20px;
 }
 
@@ -68,14 +68,14 @@
 .contact-info ul li,
 .references ul li {
     padding: .4rem 0;
-    color: #eeeeee;
+    color: #d6dbdfaf;
 }
 
 .contact-info ul li i,
 .references ul li i {
     padding-right: 1rem;
     font-size: 18px;
-    color: #eeeeee;
+    color: #2E86C1;
 }
 
 .skills ul {
@@ -83,7 +83,7 @@
 }
 .skills ul li p {
     padding: .4rem 0;
-    color: #eeeeee;
+    color: #d6dbdfaf;
 }
 
 .right-section-contents {
@@ -91,7 +91,7 @@
 }
 
 .right-title {
-    color: #eeeeee;
+    color: #70C6C7;;
 }
 
 .gap {
@@ -99,7 +99,7 @@
 }
 .about-me-contents {
     font-size: 18px;
-    color: #eeeeee;
+    color: #F1F8FD;
 }
 
 .experience-contents,
